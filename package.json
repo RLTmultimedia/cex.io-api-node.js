@@ -2,7 +2,7 @@
   "name": "cexio",
   "version": "0.0.1",
   "description": "Cex.io api wrapper",
-  "main": "./index.js",
+  "main": "./cexapi.js",
   "dependencies": {
   }
 }
