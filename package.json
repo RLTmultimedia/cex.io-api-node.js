@@ -4,6 +4,5 @@
   "description": "Cex.io api wrapper",
   "main": "./index.js",
   "dependencies": {
-  },
   }
 }
